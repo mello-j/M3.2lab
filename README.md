@@ -10,7 +10,7 @@ Module 3: Lab 3.2
 
 ## Project Description
 
-This is a marked up letter for hosting ona university intranet. The letter is written as a response to a PhD application, and is an example demonstrating the appropriate use of HTML document structure for both block and inline semantics. The letter was provided as content in text format and is available here:
+This is a marked up letter for hosting on university intranet. The letter is written as a response to a PhD application, and is an example demonstrating the appropriate use of HTML document structure for both block and inline semantics. The letter was provided as content in text format and is available here:
 - [letter plaintext](https://github.com/mdn/learning-area/blob/main/html/introduction-to-html/marking-up-a-letter-start/letter-text.txt)
 with the corresponding css available here:
 - [css file](https://github.com/mdn/learning-area/blob/main/html/introduction-to-html/marking-up-a-letter-start/css.txt)
@@ -23,10 +23,13 @@ This html file was run through a [W3C HTML Validator](https://validator.w3.org/)
 
 No outside assets used in this basic html file. A number of reference sources as provided in the Module Read Me section were used, as well as google in the use of abbreviations and expansions. The references are listed below:
 
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+- Abbreviations: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/abbr
+- Subscripts: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/sub
+- Superscripts: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/sup
+- Description Lists and Quotes/Citations: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting
+- Declaring HTML language:https://www.w3.org/International/questions/qa-html-language-declarations
+- Date time attributes: https://www.w3schools.com/tags/att_time_datetime.asp
+
+## Reflection
+
+I need more HTML practice! I learned I have the basics down well, but I struggled a bit with the subscripts, superscripts, the abbreviation & expansion, and the definition list types (never used this!). Thankfully I browsed all the documentation provided in the Module's README.md which provided a lot of these with examples, so it was pretty easy to piece together. I do know without that, I would have had to Google, A LOT. So while I'm glad I understand or believe I understand the basic semantics and structure of HTML, there is obviously a lot more out there to learn/understand.
