@@ -19,6 +19,18 @@ For a full description of the project requirements, see [Introduction to HTML: M
 
 This html file was run through a [W3C HTML Validator](https://validator.w3.org/) to check for validation.
 
+## Running the Website
+
+1. To run everything you will need to Fork or Clone this repository and open in up in an IDE on your local PC or in VS Codespaces.
+
+2. Once you have cloned the Repo, open it up in VS Code.
+
+3. Select the index.html file from the Explorer Window.
+
+4. Then, using the VS Code Command Palette, type: > Live Preview Start Server. If this command is not available, you may need to install the VS Code Live Preview extension.
+
+5. This will open up a website preview within your IDE. You can also open this in an external browser if you choose, by clicking on the 3 horizontal lines icon to the top right of the preview window and selecting 'Open in Browser'.
+
 ## Sources and Credits
 
 No outside assets used in this basic html file. A number of reference sources as provided in the Module Read Me section were used, as well as google in the use of abbreviations and expansions. The references are listed below:
